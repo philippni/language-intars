@@ -1,6 +1,6 @@
 {
   "name": "language-intars",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "IntarS language support in Atom",
   "engines": {
     "atom": "*",
@@ -12,7 +12,6 @@
     "url": "https://github.com/philippni/language-intars.git"
   },
   "license": "MIT",
-
   "readme": "# IntarS language support in Atom\n\nAdds syntax highlighting and snippets to IntarS files in Atom.\n",
   "readmeFilename": "README.md",
   "_id": "language-intars@0.0.1",
